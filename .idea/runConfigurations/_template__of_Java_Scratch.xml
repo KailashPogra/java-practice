@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Java Scratch" editBeforeRun="true" singleton="false">
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
